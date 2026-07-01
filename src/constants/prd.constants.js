@@ -1,4 +1,10 @@
-export const prdResponseSchema = {
+
+
+
+
+
+
+export const prdRespondekeeteeeeeeeeeeeeeeeeeeeee = {
   type: 'object',
   properties: {
     title: { type: 'string' },
